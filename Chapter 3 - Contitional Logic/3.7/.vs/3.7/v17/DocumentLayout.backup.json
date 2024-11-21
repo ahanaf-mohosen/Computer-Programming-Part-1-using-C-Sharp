@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Self Development\\Computer-Programming-Part-1-using-C-Sharp\\Chapter 3 - Contitional Logic\\3.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1013F1-5F10-4F6C-8770-92644C03A140}|3.7\\3.7.csproj|f:\\self development\\computer-programming-part-1-using-c-sharp\\chapter 3 - contitional logic\\3.7\\3.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1013F1-5F10-4F6C-8770-92644C03A140}|3.7\\3.7.csproj|solutionrelative:3.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer-Programming-Part-1-using-C-Sharp\\Chapter 3 - Contitional Logic\\3.7\\3.7\\Program.cs",
+              "RelativeDocumentMoniker": "3.7\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer-Programming-Part-1-using-C-Sharp\\Chapter 3 - Contitional Logic\\3.7\\3.7\\Program.cs*",
+              "RelativeToolTip": "3.7\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:37:38.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

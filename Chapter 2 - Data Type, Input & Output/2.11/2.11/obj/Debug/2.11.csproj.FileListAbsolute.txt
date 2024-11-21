@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 2 - Data Type, Input & Output\2.11\2.11\bin\Debug\2.11.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 2 - Data Type, Input & Output\2.11\2.11\bin\Debug\2.11.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 2 - Data Type, Input & Output\2.11\2.11\bin\Debug\2.11.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 2 - Data Type, Input & Output\2.11\2.11\obj\Debug\2.11.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 2 - Data Type, Input & Output\2.11\2.11\obj\Debug\2.11.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 2 - Data Type, Input & Output\2.11\2.11\obj\Debug\2.11.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 2 - Data Type, Input & Output\2.11\2.11\obj\Debug\2.11.pdb

@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 6 - Array\6.10\6.10\bin\Debug\6.10.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 6 - Array\6.10\6.10\bin\Debug\6.10.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 6 - Array\6.10\6.10\bin\Debug\6.10.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 6 - Array\6.10\6.10\obj\Debug\6.10.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 6 - Array\6.10\6.10\obj\Debug\6.10.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 6 - Array\6.10\6.10\obj\Debug\6.10.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 6 - Array\6.10\6.10\obj\Debug\6.10.pdb

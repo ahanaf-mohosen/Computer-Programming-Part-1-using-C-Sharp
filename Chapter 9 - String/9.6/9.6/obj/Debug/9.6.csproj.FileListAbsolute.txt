@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 9 - String\9.6\9.6\bin\Debug\9.6.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 9 - String\9.6\9.6\bin\Debug\9.6.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 9 - String\9.6\9.6\bin\Debug\9.6.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 9 - String\9.6\9.6\obj\Debug\9.6.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 9 - String\9.6\9.6\obj\Debug\9.6.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 9 - String\9.6\9.6\obj\Debug\9.6.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 9 - String\9.6\9.6\obj\Debug\9.6.pdb

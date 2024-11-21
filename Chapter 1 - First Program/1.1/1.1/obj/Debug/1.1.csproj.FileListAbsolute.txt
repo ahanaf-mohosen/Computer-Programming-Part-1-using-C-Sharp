@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\1.1\1.1\bin\Debug\1.1.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\1.1\1.1\bin\Debug\1.1.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\1.1\1.1\bin\Debug\1.1.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\1.1\1.1\obj\Debug\1.1.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\1.1\1.1\obj\Debug\1.1.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\1.1\1.1\obj\Debug\1.1.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\1.1\1.1\obj\Debug\1.1.pdb

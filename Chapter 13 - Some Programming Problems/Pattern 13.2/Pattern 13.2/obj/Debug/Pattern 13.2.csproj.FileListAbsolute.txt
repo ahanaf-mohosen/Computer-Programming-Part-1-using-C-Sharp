@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\Pattern 13.2\Pattern 13.2\bin\Debug\Pattern 13.2.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\Pattern 13.2\Pattern 13.2\bin\Debug\Pattern 13.2.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\Pattern 13.2\Pattern 13.2\bin\Debug\Pattern 13.2.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\Pattern 13.2\Pattern 13.2\obj\Debug\Pattern 13.2.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\Pattern 13.2\Pattern 13.2\obj\Debug\Pattern 13.2.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\Pattern 13.2\Pattern 13.2\obj\Debug\Pattern 13.2.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\Pattern 13.2\Pattern 13.2\obj\Debug\Pattern 13.2.pdb

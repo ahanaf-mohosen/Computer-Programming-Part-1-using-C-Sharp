@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 10 - Prime Number\10.3\10.3\bin\Debug\10.3.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 10 - Prime Number\10.3\10.3\bin\Debug\10.3.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 10 - Prime Number\10.3\10.3\bin\Debug\10.3.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 10 - Prime Number\10.3\10.3\obj\Debug\10.3.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 10 - Prime Number\10.3\10.3\obj\Debug\10.3.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 10 - Prime Number\10.3\10.3\obj\Debug\10.3.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 10 - Prime Number\10.3\10.3\obj\Debug\10.3.pdb

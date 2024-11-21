@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\13.4\13.4\bin\Debug\13.4.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\13.4\13.4\bin\Debug\13.4.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\13.4\13.4\bin\Debug\13.4.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\13.4\13.4\obj\Debug\13.4.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\13.4\13.4\obj\Debug\13.4.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\13.4\13.4\obj\Debug\13.4.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 13 - Some Programming Problems\13.4\13.4\obj\Debug\13.4.pdb

@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 3 - Contitional Logic\3.1\3.1\bin\Debug\3.1.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 3 - Contitional Logic\3.1\3.1\bin\Debug\3.1.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 3 - Contitional Logic\3.1\3.1\bin\Debug\3.1.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 3 - Contitional Logic\3.1\3.1\obj\Debug\3.1.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 3 - Contitional Logic\3.1\3.1\obj\Debug\3.1.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 3 - Contitional Logic\3.1\3.1\obj\Debug\3.1.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 3 - Contitional Logic\3.1\3.1\obj\Debug\3.1.pdb

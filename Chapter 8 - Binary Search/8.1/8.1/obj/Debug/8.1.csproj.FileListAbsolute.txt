@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 8 - Binary Search\8.1\8.1\obj\Debug\8.1.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 8 - Binary Search\8.1\8.1\obj\Debug\8.1.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 8 - Binary Search\8.1\8.1\bin\Debug\8.1.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 8 - Binary Search\8.1\8.1\bin\Debug\8.1.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 8 - Binary Search\8.1\8.1\bin\Debug\8.1.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 8 - Binary Search\8.1\8.1\obj\Debug\8.1.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 8 - Binary Search\8.1\8.1\obj\Debug\8.1.pdb

@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 5 - A Little Math\5.5\5.5\bin\Debug\5.5.exe.config
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 5 - A Little Math\5.5\5.5\bin\Debug\5.5.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 5 - A Little Math\5.5\5.5\bin\Debug\5.5.pdb
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 5 - A Little Math\5.5\5.5\obj\Debug\5.5.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 5 - A Little Math\5.5\5.5\obj\Debug\5.5.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 5 - A Little Math\5.5\5.5\obj\Debug\5.5.exe
+F:\Self Development\Computer-Programming-Part-1-using-C-Sharp\Chapter 5 - A Little Math\5.5\5.5\obj\Debug\5.5.pdb
